@@ -1,0 +1,5 @@
+/home/a/HW2/HW2_1/build/CMakeFiles/sobel.dir
+/home/a/HW2/HW2_1/build/CMakeFiles/run.dir
+/home/a/HW2/HW2_1/build/CMakeFiles/check.dir
+/home/a/HW2/HW2_1/build/CMakeFiles/edit_cache.dir
+/home/a/HW2/HW2_1/build/CMakeFiles/rebuild_cache.dir
